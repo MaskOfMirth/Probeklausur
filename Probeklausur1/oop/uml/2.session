@@ -1,0 +1,17 @@
+window_sizes 1912 995 450 1456 943 0
+cleanlooks_style
+diagrams
+  active  classdiagram_ref 128130 // cd
+    1456 943 100 A4 0 0
+end
+show_stereotypes
+selected classdiagram_ref 128130 // cd
+open
+  class_ref 128130 // Steuerung
+  operation_ref 128514 // Uhr
+  class_ref 128386 // Anzeige
+  class_ref 128514 // KonsolenAnzeige
+  class_ref 128642 // Uhrwerk
+  class_ref 128770 // SystemZeit
+end
+end
